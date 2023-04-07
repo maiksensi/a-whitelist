@@ -2,7 +2,3 @@
 googleadservices.com
 pagead2.googleadservices.com
 www.googleadservices.com
-
-# [podman.io]
-podman.io
-www.podman.io
